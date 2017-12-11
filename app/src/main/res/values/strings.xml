@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Scroll Flags Example</string>
+    <string name="menu_item_add">Add</string>
+    <string name="menu_item_settings">Settings</string>
+
+    <string name="SCROLL_FLAG_ENTER_ALWAYS">ENTER_ALWAYS</string>
+    <string name="SCROLL_FLAG_ENTER_ALWAYS_COLLAPSED">ENTER_ALWAYS_COLLAPSED</string>
+    <string name="SCROLL_FLAG_EXIT_UNTIL_COLLAPSED">EXIT_UNTIL_COLLAPSED</string>
+    <string name="SCROLL_FLAG_SCROLL">SCROLL</string>
+    <string name="SCROLL_FLAG_SNAP">SNAP</string>
+
+    <string name="content_button">Push me</string>
+    <string name="content_text_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a quam tincidunt urna feugiat vestibulum quis non dolor. Phasellus porttitor sem arcu, quis ultrices mauris rutrum commodo. Quisque at lobortis libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus consectetur nisi eget leo imperdiet congue hendrerit et eros. Curabitur sed odio euismod, mattis enim feugiat, faucibus ante. Maecenas iaculis, elit ac bibendum lacinia, dolor libero auctor justo, finibus malesuada ex metus eget elit. Vestibulum sit amet finibus massa. Nulla id eros lectus. Donec vestibulum feugiat euismod. Proin tincidunt nulla in velit dapibus fermentum. Phasellus egestas sed ipsum id malesuada. Nullam at dignissim nunc. Vivamus mollis lobortis tristique.
+
+Ut justo velit, consectetur sit amet porttitor et, scelerisque et odio. Suspendisse viverra in risus sit amet pharetra. Suspendisse sit amet ipsum est. Duis porta lacus ultrices, posuere sapien sollicitudin, vestibulum nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In fringilla tincidunt tincidunt. Vivamus mollis lorem et mattis tempor. Morbi volutpat arcu lorem, a lobortis turpis blandit ac. Curabitur dolor erat, auctor tristique porttitor id, venenatis at nunc. Suspendisse efficitur elit sem, sed interdum ligula commodo nec. Cras semper justo vel auctor hendrerit. Nam dui diam, pretium ac tristique eu, porttitor a urna. Cras ac sagittis mi, eu bibendum lacus.
+
+Aenean in arcu laoreet, gravida orci et, faucibus velit. Etiam finibus viverra tortor vel pretium. Curabitur vitae ex sed ex convallis suscipit. Pellentesque malesuada hendrerit neque, et vestibulum ligula mollis at. Mauris vehicula nisl quam, et eleifend orci varius eget. Quisque ut urna eu ipsum commodo feugiat. Suspendisse ac sem nec enim laoreet dictum venenatis eget neque. Donec egestas suscipit leo, sodales posuere nibh accumsan nec. Sed nec erat aliquam, hendrerit sapien non, fermentum diam. Aliquam erat volutpat. Aliquam varius semper purus, ac accumsan arcu finibus non.
+    </string>
+    <string name="content_text_two">Nam ultrices, nunc sit amet vulputate vehicula, eros sem malesuada augue, quis cursus sem orci id magna. Vestibulum neque nibh, scelerisque eget urna nec, malesuada aliquam magna. Aenean varius justo tellus. Donec non leo ut turpis condimentum pharetra. Vestibulum lacinia lobortis volutpat. Suspendisse viverra augue a quam pellentesque fringilla. Fusce at purus nisl. Maecenas at justo nec sem efficitur finibus. Etiam sodales sit amet nulla non dapibus. Donec eget ante quam.</string>
+</resources>

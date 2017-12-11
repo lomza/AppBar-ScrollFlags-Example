@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="totem_soft.scrollflags.MainActivity"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/buttonShowFlagEnterAlways"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SCROLL_FLAG_ENTER_ALWAYS"
+        android:onClick="showFlagEnterAlwaysBehavior"/>
+
+    <Button
+        android:id="@+id/buttonShowFlagEnterAlwaysCollapsed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SCROLL_FLAG_ENTER_ALWAYS_COLLAPSED"
+        android:onClick="showFlagEnterAlwaysCollapsedBehavior"/>
+
+    <Button
+        android:id="@+id/buttonShowFlagExitUntilCollapsed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SCROLL_FLAG_EXIT_UNTIL_COLLAPSED"
+        android:onClick="showFlagExitUntilCollapsedBehavior"/>
+
+    <Button
+        android:id="@+id/buttonShowFlagScroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SCROLL_FLAG_SCROLL"
+        android:onClick="showFlagScrollBehavior"/>
+
+    <Button
+        android:id="@+id/buttonShowFlagSnap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SCROLL_FLAG_SNAP"
+        android:onClick="showFlagSnapBehavior"/>
+
+</LinearLayout>
